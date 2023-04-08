@@ -1,6 +1,6 @@
 # routing
 
-A new Flutter project.a
+Routing with go router package.
 
 ## Getting Started
 
